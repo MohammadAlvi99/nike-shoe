@@ -1,0 +1,18 @@
+.top-part-height {
+    height: 650px;
+    background-color: rgb(255, 252, 220);
+}
+
+.footer-border {
+    background-color: white;
+    border: 0;
+}
+
+.card-border {
+    border: 0;
+    border-radius: 1em;
+}
+
+.photo-width {
+    width: 100px;
+}
